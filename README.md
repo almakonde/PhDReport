@@ -52,7 +52,7 @@ BibTeX под UTF-8.
   и диссертации (согласно [ГОСТ Р 7.0.11-2011](Documents/GOST%20R%207.0.11-2011.pdf),
   пункты 5.3.3 и 9.2.3).
   * [data.tex](common/data.tex): Общие данные (название работы, руководитель,
-  оппоненты, ключевые слова и т. п.).
+  оппоненты, ключевые слова и т.п.).
   * [packages.tex](common/packages.tex) и [styles.tex](common/styles.tex): Общие
   пакеты и стили оформления автореферата и диссертации.
   * [setup.tex](common/setup.tex): Общие настройки автореферата и диссертации.
@@ -60,7 +60,7 @@ BibTeX под UTF-8.
 * **[папка biblio](biblio/):** Файлы с библиографией.
   * [author.bib](biblio/author.bib): Публикации автора по теме диссертации.
   * [registered.bib](biblio/registered.bib): Зарегистрированные патенты и программы для ЭВМ.
-  * [external.bib](biblio/external.bib): Работы которые ссылается автор.
+  * [external.bib](biblio/external.bib): Работы, на которые ссылается автор.
 * **папка images:** Общие файлы изображений шаблонов.
   * **папка cache:** Папка прекомпелированных рисунков.
 	* [placeholder.txt](images/cache/placeholder.txt): Файл, необходимый для прекомпиляции
